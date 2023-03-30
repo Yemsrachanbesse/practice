@@ -31,7 +31,7 @@ case 'eightBall===7':
 console.log('signs point to yes')
 break;
 default:
-console.log('invalid');
+console.log('invalid number');
 break;
 }
 console.log(eightBall);
