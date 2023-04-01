@@ -4,7 +4,7 @@ console.log('Hello!');
 const userQuestion='what is your age';
 console.log(`${userQuestion} ${userName} if you wish!`);
 let randomNumber=Math.floor(Math.random() * 8);
-let eightBall=randomNumber;
+let eightBall='';
 switch (eightBall){
   case 'eightBall===0':
  console.log('It is certain');
